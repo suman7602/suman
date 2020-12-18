@@ -1,0 +1,20 @@
+.footer {
+    background: #0a007e;
+    color: #fff;
+    padding: 3rem 4rem;
+}
+
+.footer h4 {
+    font-size: 1rem;
+    color: #fff;
+    padding-left: 3rem;
+}
+
+.ni {
+    margin-left: 3rem;
+    /* padding: .3rem 0rem; */
+    color: #fff;
+    opacity: 0.8;
+    font-weight: 200;
+    cursor: none;
+}
